@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi! I'm Annabel 
+
+I'm a UBC Engineering Physics student with experience in machine learning, hardware, and hands-on mechanical work. 
+I'm passionate about software projects with physical applications and love taking on new challenges. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/annabel-li-ubc/); I'd love to connect!  
 
 <!--
 **annabel-li/annabel-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
